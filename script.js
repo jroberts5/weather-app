@@ -1,14 +1,4 @@
-/*
-const notification = document.querySelector(".notification");
-const weatherIcon = document.querySelector(".weather-icon");
-const weatherDesc = document.querySelector(".weather-description");
-const temp = document.querySelector(".temperature");
 const weatherLocation = document.querySelector(".location");
-
-*/
-
-const weatherLocation = document.querySelector(".location");
-
 
 let weather = {
     //Calls apt,converts to json then sends to method for using data
